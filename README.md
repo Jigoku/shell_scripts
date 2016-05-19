@@ -6,5 +6,5 @@
 ## scrape-google.sh
 * Dumps the 1st 100 results as URI's for a query
 
-## trawler
-* Randomly find alive hosts on the deepweb
+## trawler.sh
+* Randomly find alive hosts on the deepweb (requires /dev/tcp)
